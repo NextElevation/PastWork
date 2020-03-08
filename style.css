@@ -86,3 +86,13 @@ h3 {
     width: 550px;
     margin: 20px auto;
 }
+
+#GIT {
+    color: darkslategrey;
+    text-align: center;
+}
+
+#CONTACT {
+    color: darkslategrey;
+    text-align: center;
+}
